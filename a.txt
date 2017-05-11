@@ -1,0 +1,1 @@
+git remote add origin url #将本地仓库和远程仓库关联
