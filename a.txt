@@ -1,2 +1,3 @@
 git remote add origin url #将本地仓库和远程仓库关联
 git remote -v #查看远程仓库的详细信息
+git remote set-url origin url #修改远程仓库的地址
