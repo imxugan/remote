@@ -1,1 +1,2 @@
 git remote add origin url #将本地仓库和远程仓库关联
+git remote -v #查看远程仓库的详细信息
