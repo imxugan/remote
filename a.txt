@@ -1,4 +1,4 @@
-git remote add origin url #½«±¾µØ²Ö¿âºÍÔ¶³Ì²Ö¿â¹ØÁª
-git remote -v #²é¿´Ô¶³Ì²Ö¿âµÄÏêÏ¸ÐÅÏ¢
-git remote set-url origin url #ÐÞ¸ÄÔ¶³Ì²Ö¿âµÄµØÖ·
-git push -u origin master #½«±¾µØ²Ö¿âÍÆËÍµ½Ô¶³Ì²Ö¿â
+git remote add origin url #æ·»åŠ ä¸€ä¸ªè¿œç¨‹ä»“åº“çš„url
+git remote -v #ï¿½é¿´Ô¶ï¿½Ì²Ö¿ï¿½ï¿½ï¿½ï¿½Ï¸ï¿½ï¿½Ï¢
+git remote set-url origin url #ï¿½Þ¸ï¿½Ô¶ï¿½Ì²Ö¿ï¿½Äµï¿½Ö·
+git push -u origin master #ï¿½ï¿½ï¿½ï¿½ï¿½Ø²Ö¿ï¿½ï¿½ï¿½ï¿½Íµï¿½Ô¶ï¿½Ì²Ö¿ï¿½
