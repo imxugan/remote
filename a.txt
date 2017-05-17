@@ -1,4 +1,6 @@
 git remote add origin url #添加一个远程仓库的url
-git remote -v #�鿴Զ�ֿ̲����ϸ��Ϣ
-git remote set-url origin url #�޸�Զ�ֿ̲�ĵ�ַ
+git remote -v #查看远程仓库的信息
+git remote set-url origin url #重新设置远程仓库的url
 git push -u origin master #�����زֿ����͵�Զ�ֿ̲�
+
+
